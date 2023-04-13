@@ -1,0 +1,15 @@
+controller
+ autowired srvice
+
+
+model
+
+
+
+
+repository
+
+
+
+service
+autowired repository 
